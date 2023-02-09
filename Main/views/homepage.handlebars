@@ -1,0 +1,19 @@
+{{#each blogs as |blog| }}
+<div >
+    <div>
+        <h2>
+            {{{}}}
+        </h2>
+        <p>
+            <span></span>
+            <span></span>
+        </p>
+        <p> Posted by {{blog.user.name}} on {{format_dateblog.date_created}}</p>
+    </div>
+    <div>
+        <p>
+            {{blog.description}}
+        </p>
+    </div>
+</div>
+{{/each}}
