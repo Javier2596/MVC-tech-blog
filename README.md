@@ -4,7 +4,7 @@
 
 This weeks challenge was to build a CMS-style blog site that worked similar to a Wordpress site. The application was meant to allow developers to publish their blog post and comment on other developer's post. Following the Module View Controller (MVC) paradigm (its structure). In addition using Handlebar.js for the templating language, Sequelize for the Object Relational Mapping (ORM), and express-session npm package for authentication.  
 
-## Table of Contents (Optional)
+## Table of Contents
 
 Table of contents is currently under maintenance. 
 
